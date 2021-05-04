@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RequestPatch" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-04T15:09:22" hostname="Gayathris-MacBook-Pro.local" time="2.572">
+  <properties/>
+  <testcase name="patch_Update_Test" classname="RequestPatch" time="2.572"/>
+  <system-out><![CDATA[200
+{"name":"morpheus","job":"zion resident","updatedAt":"2021-05-04T15:09:24.547Z"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

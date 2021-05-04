@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/test/java/RequestPost.java
+  checksum: c624bce71a0bfb91445cff69ce6bbfdf7a97155d3ac8fe780bd26f2050334d09
+
